@@ -1,0 +1,7 @@
+node_modules/
+.env
+data/
+generated/
+.DS_Store
+.omo/
+.playwright-mcp/
